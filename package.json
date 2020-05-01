@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-clean-cra",
+  "version": "1.0.5",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "clean-template",
+    "clean-cra"
+  ],
+  "author": "Jorge Pasco <jorgepascosoto@gmail.com>",
+  "description": "Cleaned-up version of the base template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JorgePasco1/cra-template-clean-cra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JorgePasco1/cra-template-clean-cra/issues"
+  },
+  "license": "MIT"
+}
